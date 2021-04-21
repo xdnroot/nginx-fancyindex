@@ -12,7 +12,7 @@ Demo: [https://files.webiptek.com](https://files.webiptek.com)
 
 1. Download all resources in this repository and put them on spesific folder. For example, I placed them on /var/www/files.webiptek.com/.fancyindex.
 ```
-ls /var/www/files.webiptek.com/.fancyindex
+$ ls /var/www/files.webiptek.com/.fancyindex
 footer.html  header.html  js  less  theme.d  theme.less  logo.png
 ```
 
