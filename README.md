@@ -22,6 +22,7 @@ server {
         root /var/www/files.webiptek.com;
         server_name files.webiptek.com;
         location / {
+                # To customize your fancyindex, please refer to aperezdc/ngx-fancyindex (see related links).
                 fancyindex on;
                 fancyindex_localtime on;
                 fancyindex_name_length 255;
