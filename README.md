@@ -40,6 +40,6 @@ server {
         }
 }
 ```
-## LICENSE
+## License
 
 This software is distributed for free, in the hope that it will be useful, but **WITHOUT ANY WARRANTY**. Without even the implied warranty of **MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE**.
